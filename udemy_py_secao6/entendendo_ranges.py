@@ -32,7 +32,7 @@ for num in range(1, 10, 2):
     print(num)
 
 #Forma 4
-ange(valor_de_parada, valor_de_inicio, passo)
+range(valor_de_parada, valor_de_inicio, passo)
 OBS: valor_de_parada não inclusive (final especificado pelo usuario , passo especificado)
 # Exemplo Forma 4
 for num in range(10, 1, -2):
