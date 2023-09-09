@@ -1,8 +1,5 @@
-# Inserindo contadores:
 numeros_lidos = 0
 numeros_pares = 0
-
-# Colocando a condicional:
 
 while True:
     numero = int(input("Insert a number between 0 and 1000: "))
