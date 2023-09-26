@@ -1,5 +1,8 @@
 '''
 Modulo Collections - Counter (Contador)
+
+https://docs.python.org/3/library/collections.html
+
 Collections - > High-performance Container Datatypes
 Counter -> Recebe um interavel como parametro e cria um objeto do tipo Collection Counter que é parecido
 com o dicionario, contendo como chave o elemento da lista passada como parametro e como valor a quantidade
