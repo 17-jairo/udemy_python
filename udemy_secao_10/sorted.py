@@ -37,8 +37,7 @@ print(sorted(usuarios, key=lambda usuario: usuario['username']))
 
 # Ordenando pelo numero de tweets
 print(sorted(usuarios, key=lambda usuario: len(usuario['tweets'])))
-'''
-
+-----------------------------------------------------------------------------------------------------------------------
 # Ultimo exemplo
 
 musicas = [
@@ -53,3 +52,4 @@ print(sorted(musicas, key=lambda musica: musica['tocou']))
 
 # Ordena da mais tocada para a menos tocada
 print(sorted(musicas, key=lambda musica: musica['tocou'], reverse=True))
+'''
